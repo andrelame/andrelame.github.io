@@ -1,0 +1,464 @@
+body{
+    font-size:16px; 
+    background-color: #000000;
+}
+h1{
+    color: #bfdacf;
+}
+.bas1{
+    background-color: #bfdacf;
+}
+.dodo{
+    width: 100%;
+    height: auto;
+}
+.photoHobbies{
+    width: 100%;
+    height: auto;
+}
+.wesf{
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+}
+.toto{
+    position: fixed;
+    top: 145px;
+    left: 9%;
+    padding: 2%;
+    background-color: rgba(0,0,0,0.8);
+    border-radius: 6px;
+    color: white; 
+    animation: fadeInUpBig 1s linear 0s 1  alternate;   
+}
+h4{
+    color: #62a9b8;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+}
+.toto2{
+    position: fixed;
+    top: 145px;
+    left: 0%;
+    padding: 2%;
+    background-color: rgba(34,97,53,0.8);
+    border-radius: 6px;
+    color: white; 
+    animation: fadeInUpBig 1s linear 0s 1  alternate; 
+    font-family: 'Montserrat', sans-serif;
+}
+.toto2 p{
+    font-size: 23px;
+}
+.popo{
+    background-color: #bfdacf;
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 1.2em;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.33s;
+    animation: rubberBand 2s linear 1s 1  alternate;
+}
+.bandeauHobbies{
+    background-color: #f10000;
+    color: white;
+    font-family: sans-serif;
+    font-size: 1.2em;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.33s;
+    animation: rubberBand 2s linear 1s 1  alternate;
+}
+.popo4{
+    background-color: white;
+    color: #000000;
+    font-family: sans-serif;
+    font-size: 1.2em;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.33s;
+    animation: rubberBand 2s linear 1s 1  alternate;
+}
+h2{
+    margin-bottom: 6%;
+    text-align: center;
+}
+.imp2{   
+    background-color:black;
+    color:white;
+    font-family: sans-serif;
+    font-size: 1.2em;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.33s;
+    animation: rubberBand 2s linear 1s 1  alternate;
+}
+.ipp2{
+    color: white;
+}
+.popo:hover{
+ background-color: #00e1ff;   
+}
+body, html {
+    height: 100%;
+  }
+  
+  .parallax {
+    /* The image used */
+    background-image: url('../img/koko.jpg');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax2 {
+    /* The image used */
+    background-image: url('../img2/kart.jpg');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lulu{
+    position: absolute;
+    top: 145px;
+    left: 9%;
+    padding: 2%;
+    background-color: rgba(0,0,0,0.8);
+    border-radius: 6px;
+    color: white;   
+}
+.mimi{
+    position: absolute;
+    top: 249px;
+    left: 72%;
+    padding: 2%;
+    background-color: rgba(0,0,0,0.0);
+    border-radius: 6px;
+    color: white;   
+}
+.bandeau{
+    position: absolute;
+    top: 249px;
+    left: 72%;
+    padding: 2%;
+    background-color: rgba(0,0,0,0.0);
+    border-radius: 6px;
+    color: white;   
+}
+.h1band{
+    color: #ff0000;
+}
+.impp{
+    position: absolute;
+    top: 285px;
+    left: 26%;
+    padding: 2%;
+    background-color: rgba(0,0,0,0.0);
+    border-radius: 6px;
+    color: white;   
+}
+.impp h2{
+    text-align: left;
+}
+.imp{
+    color: black;
+}
+.impp li{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600; 
+    color: #000000;
+    font-size: 23px;
+}
+.lulu{
+        animation: fadeInUpBig 1s linear 0s 1  alternate;
+}
+.mimi{
+    animation: fadeInUpBig 1s linear 0s 1  alternate;
+}
+.bandeau{
+    animation: fadeInUpBig 1s linear 0s 1  alternate;
+}
+
+.maNav{
+    background-color: #131212 !important;
+    font-family: 'Karla', sans-serif;
+}
+.maNav ul li a{
+    color:white !important;
+    font-family: 'Karla', sans-serif;
+}
+.mainNavHobbies ul li a{
+    color: #6b5974 !important;
+    font-family: 'Karla', sans-serif;
+}
+.maNavHobbies{
+    background-color: #13121200 !important;
+    font-family: 'Karla', sans-serif;
+}
+.maNavHobbies ul li a{
+    color:white !important;
+    font-family: 'Karla', sans-serif;
+}
+.mainNav ul li a{
+    color: #6b5974 !important;
+    font-family: 'Karla', sans-serif;
+}
+.mainNav2{
+    background-color: #ac4040 !important;
+    font-family: 'Karla', sans-serif;
+}
+.mainNav3{
+    background-color:white !important;
+    font-family: 'Karla', sans-serif;
+}
+.mainNav3 ul li a{
+    color: black !important;
+    font-family: 'Karla', sans-serif;
+}
+.navForm{
+    background-color:#e8e8e8 !important;
+    font-family: 'Karla', sans-serif;
+}
+.navForm ul li a{
+    color: black !important;
+    font-family: 'Karla', sans-serif;
+}
+.mainNavReal{
+    background-color:black !important;
+    font-family: 'Karla', sans-serif;
+}
+.mainNavReal ul li a{
+    color: white !important;
+    font-family: 'Karla', sans-serif;
+}
+li{
+    list-style-type: none;
+}
+.djoko{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.ppl{
+    text-align: center;
+    color: aliceblue;
+}
+.container22{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    padding: 4%;
+}
+.container22 h2{
+    font-weight: 600;
+    color: #529daf;
+}
+.container22 h3{
+    font-weight: 500;
+    margin-bottom: 4%;
+    color: #529daf;
+}
+.container22 li{
+    color: #64518c;
+}
+.iip{
+    background-color: rgba(0,0,0,0.8);
+}
+.container33{
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    padding: 4%;
+}
+.container33 h3{
+    font-weight: 500;
+    margin-bottom: 4%;
+    color: white;
+}
+.container33 li{
+    color: white;
+}
+.footnav{
+    background-color:#c9c8cf;
+    width: 100%; 
+    padding:12px;
+}
+.footnav ul{
+    display: flex; 
+    justify-content: space-evenly;
+    padding-left: 0;
+    margin-bottom: 0;
+    
+}
+.footnav ul li{
+    display: inline-block;
+}
+.footnav ul li a{
+    color: black;
+    font-family: 'Karla', sans-serif;
+}
+.footnav3{
+    background-color: #131212;
+    width: 100%; 
+    padding:12px
+}
+.footnav3 ul li{
+    display: inline-block;
+}
+.footnav3 ul li a{
+    color: white;
+    font-family: 'Karla', sans-serif;
+}
+.footnav3 ul{
+    display: flex; 
+    justify-content: space-evenly;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.footnavForm{
+    background-color: #e8e8e8;
+    width: 100%; 
+    padding:12px
+}
+.footnavForm ul li{
+    display: inline-block;
+}
+.footnavForm ul li a{
+    color: black;
+    font-family: 'Karla', sans-serif;
+}
+.footnavForm ul{
+    display: flex; 
+    justify-content: space-evenly;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.footnavReal{
+    background-color:black;
+    width: 100%; 
+    padding:12px
+}
+.footnavReal ul li{
+    display: inline-block;
+}
+.footnavReal ul li a{
+    color:white;
+    font-family: 'Karla', sans-serif;
+}
+.footnavReal ul{
+    display: flex; 
+    justify-content: space-evenly;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.footnavEx{
+    background-color:#d6a003;
+    width: 100%; 
+    padding:12px
+}
+.footnavEx ul li{
+    display: inline-block;
+}
+.footnavEx ul li a{
+    color:black;
+    font-family: 'Karla', sans-serif;
+}
+.footnavEx ul{
+    display: flex; 
+    justify-content: space-evenly;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.footnav4{
+    background-color:#13121200 !important;
+    width: 100%; 
+    padding:12px
+}
+.footnav4 ul li{
+    display: inline-block;
+}
+.footnav4 ul li a{
+    color:white;
+    font-family: 'Karla', sans-serif;
+}
+.footnav4 ul{
+    display: flex; 
+    justify-content: space-evenly;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.real{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+.h1Real{
+    color:white;
+    font-family: 'Karla', sans-serif;
+    padding-top: 50px;
+    text-align: center;
+}
+.h2Real{
+    color: #6fdcc5;
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .containerForm {
+    border-radius: 5px;
+    background-color: #e8e8e8;
+    padding: 103px;
+  }
